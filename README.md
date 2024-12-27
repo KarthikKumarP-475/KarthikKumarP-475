@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋. I am Karthik
 
 <!--
 **KarthikKumarP-475/KarthikKumarP-475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+About me
+
+- An Undergraduate Student at [Avinash College of Commerce](https://www.acc.edu.in/himayatnagar-degree-branch/)
+
+<br/><br/>
+**Technical Skills**
+<br/><br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<br/><br/>
+
+**Contact Me**
+<br/>
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow KarthikKumarP on LinkedIn" title="Follow KarthikKumarP on LinkedIn"/>](https://www.linkedin.com/in/KarthikKumarP/)
+
+<br/>
