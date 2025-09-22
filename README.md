@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br/>
 About me
 
-- An Undergraduate Student at [Avinash College of Commerce](https://www.acc.edu.in/himayatnagar-degree-branch/)
+- An Undergraduate at [Avinash College of Commerce](https://www.acc.edu.in/himayatnagar-degree-branch/)
 
 <br/><br/>
 **Technical Skills**
