@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br/>
 About me
 
-- An Undergraduate at [Avinash College of Commerce](https://www.acc.edu.in/himayatnagar-degree-branch/)
+- An Undergraduate from [Avinash College of Commerce](https://www.acc.edu.in/himayatnagar-degree-branch/)
 - A data science student focused on delivering results, experienced in data preparation, statistical evaluation, and machine learning to enhance decision-making, and skilled at producing impactful visual representations.
 
 <br/><br/>
